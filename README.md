@@ -8,11 +8,11 @@ https://github.com/afforeroc/nodejs-cloudant-cf
 
 
 2. Desplegar una aplicación web de Angular sobre Cloud Foundry de IBM Cloud<br>
-https://github.com/afforeroc/angular-cf
+https://github.com/afforeroc/angular-cf <br>
 Ejemplo: https://sample-angular-cf.mybluemix.net/
 
 3. Desplegar una aplicación web de Express sobre Cloud Foundry de IBM Cloud<br>
-https://github.com/afforeroc/express-cf
+https://github.com/afforeroc/express-cf <br>
 Ejemplo: https://sample-express-cf.mybluemix.net/
 
 ## Demostraciones
