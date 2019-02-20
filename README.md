@@ -14,6 +14,10 @@ Mis repositorios sobre IBM Cloud
 * Repositorio: https://github.com/afforeroc/express-cf
 * Ejemplo: https://sample-express-cf.mybluemix.net/
 
+### 4. Desplegar una aplicación web de Flask sobre Cloud Foundry de IBM Cloud<br>
+* Repositorio: https://github.com/afforeroc/flask-cf
+* Ejemplo: https://sample-flask-cf.mybluemix.net/
+
 ## Demostraciones
 
 ### 1. Buscador por ciudad de las últimas condiciones climaticas usando la API de Weather Company
