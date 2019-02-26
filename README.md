@@ -22,7 +22,7 @@ Mis repositorios sobre IBM Cloud
 * Repositorio: https://github.com/afforeroc/flask-cf
 * Ejemplo: https://sample-flask-cf.mybluemix.net/
 
-### 5. Desplegar una aplicación web de PHP sobre Cloud Foundry de IBM Cloud<br>
+### 6. Desplegar una aplicación web de PHP sobre Cloud Foundry de IBM Cloud<br>
 * Repositorio: https://github.com/afforeroc/php-cf
 * Ejemplo: https://sample-php-cf.mybluemix.net/
 
