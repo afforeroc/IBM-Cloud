@@ -18,6 +18,10 @@ Mis repositorios sobre IBM Cloud
 * Repositorio: https://github.com/afforeroc/react-cf
 * Ejemplo: https://sample-react-cf.mybluemix.net/
 
+### 6. Desplegar una aplicación web de Vue.js sobre Cloud Foundry de IBM Cloud<br>
+* Repositorio: https://github.com/afforeroc/vuejs-cf
+* Ejemplo: https://sample-vujs-cf.mybluemix.net/
+
 ### 5. Desplegar una aplicación web de Flask sobre Cloud Foundry de IBM Cloud<br>
 * Repositorio: https://github.com/afforeroc/flask-cf
 * Ejemplo: https://sample-flask-cf.mybluemix.net/
