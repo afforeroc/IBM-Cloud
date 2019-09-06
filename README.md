@@ -1,7 +1,6 @@
 # IBM Cloud 
-Repositorios sobre servicios de IBM Cloud
 
-## Talleres y tutoriales de Cloud Foundry
+## Cloud Foundry
 
 [Desplegar un ejemplo de Node.js en Cloud Foundry con conexión a Cloudant](https://github.com/afforeroc/nodejs-cloudant-cf)
 
