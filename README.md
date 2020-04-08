@@ -1,11 +1,11 @@
-# IBM Cloud + Watson AI
+# IBM Cloud + Watson
 Hands-on workshops, tutorials, Proofs of concept, demos and tools using IBM Cloud and Watson AI services.
 
 ## Hands-on workshops
 * [Deploy a functional web app using Cloud Foundry of IBM Cloud](https://github.com/afforeroc/deploy-functional-web-app)<br>
 Deploy a NodeJS web app with Cloudant database using Cloud Foundry service of IBM Cloud.
 
-* [Virtual insurance assitant using Watson AI of IBM Cloud](https://github.com/afforeroc/insurance-assitant)<br>
+* [Virtual insurance assitant using Watson of IBM Cloud](https://github.com/afforeroc/insurance-assitant)<br>
 Virtual insurance assistant (chatbot) using Watson Assistant, Visual Recognition and Deploy Cloud Functions services of IBM Cloud.
 
 * [Churn predictor model using Watson Studio of IBM Cloud](https://github.com/afforeroc/predictor-churn-model)<br>
